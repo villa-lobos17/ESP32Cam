@@ -1,6 +1,6 @@
 # CamEsp32
 
-Project for the **AI Thinker ESP32-CAM** with a Spanish web dashboard that serves MJPEG stream, live image controls, and basic chip telemetry. It spins up a server on port 80 with a stylized viewer, brightness/contrast/saturation sliders, AWB/AGC/AEC toggles, 180° rotation, resolution selector, and a client-side enhancement mode (denoise + micro-sharpen).
+Project for the **AI Thinker ESP32-CAM** with a Spanish web dashboard(i was trying to explain c++ to my daughter hehe) that serves MJPEG stream, live image controls, and basic chip telemetry. It spins up a server on port 80 with a stylized viewer, brightness/contrast/saturation sliders, AWB/AGC/AEC toggles, 180° rotation, resolution selector, and a client-side enhancement mode (denoise + micro-sharpen).
 
 ## Requirements
 - PlatformIO with Arduino framework (`platformio.ini` already set for `esp32dev`).
